@@ -36,12 +36,6 @@ export default class App extends Component<{}> {
 }
 
 const styles = StyleSheet.create({
-  description: {
-    fontSize: 18,
-    textAlign: 'center',
-    color: '#656565',
-    marginTop: 65,
-  },
   container: {
     flex: 1,
   },
